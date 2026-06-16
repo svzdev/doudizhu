@@ -3,5 +3,5 @@ aiomysql==0.3.0
 alembic==1.8.0
 orjson==3.11.6
 SQLAlchemy==1.4.39
-pyjwt==2.12.0
+pyjwt==2.13.0
 uvloop==0.16.0
